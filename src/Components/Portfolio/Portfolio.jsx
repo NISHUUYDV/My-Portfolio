@@ -36,13 +36,13 @@ export default function Portfolio() {
           
           <div className=" box">
             <div className="text">
-              <a href="https://github.com/Nishuuydv"><span style={{ color: 'var(--orange)', cursor: 'pointer' }}>My TODO</span></a>
+              <a href="https://github.com/NISHUUYDV/Todo-devops"><span style={{ color: 'var(--orange)', cursor: 'pointer' }}>My TODO</span></a>
               <p>My Todo is a simple web application built using React.js that helps users keep track of their daily tasks and to-do lists. With the help of this application, users can add, edit, delete and mark tasks as complete or incomplete.
                 The application makes use of props drilling and state lifting techniques to handle data flow between different components of the application. The main component of the application is the TodoList component which is responsible for rendering the list of tasks. The TodoList component passes the task data to its child component, the TodoItem component, using props. The TodoItem component is responsible for rendering each individual task item.
                 The application is fully responsive and can be used on desktops, laptops, tablets, and mobile devices.
               </p>
             </div>
-            <a href="https://github.com/Nishuuydv" className='imgportfolio'><img src={Todo} alt="" /></a>
+            <a href="https://github.com/NISHUUYDV/Todo-devops" className='imgportfolio'><img src={Todo} alt="" /></a>
           </div>
         </div>
 
